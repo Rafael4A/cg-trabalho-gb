@@ -1,0 +1,15 @@
+# cam    eye     direction   up      speed(rec 10)
+camera   0 0 3   0 0 -1      0 1 0   10
+
+# viewport   largura   altura   cor
+viewport     1280      720      #1f4172
+
+# light intensidade coeficiente_da_especular
+light   1.5         2.0
+
+# OBJs   caminho                             translate   rotate   escala
+obj      ./objetos/VHSTape.obj               0 0 0       0        3    
+obj      ./objetos/Eye/eye.obj               0 0 -50     0        1      
+obj      ./objetos/Pokemon/Pikachu.obj       -0 0 -10    30       1         
+obj      ./objetos/Locker/Locker.obj         10 0 0      45       0.8  
+obj      ./objetos/Butterfly/butterfly.obj   10 10 0     90       0.5 

@@ -1,0 +1,13 @@
+# Blender MTL File: 'eye.blend'
+# Material Count: 2
+
+newmtl eye
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 0.000000
+d 1.000000
+illum 1
+map_Kd eye_Diffuse.png

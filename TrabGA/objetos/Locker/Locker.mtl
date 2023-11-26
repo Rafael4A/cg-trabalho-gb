@@ -1,0 +1,14 @@
+# Blender 3.4.1 MTL File: 'Locker.blend'
+# www.blender.org
+
+newmtl Baked
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Low-Poly_Locker_white_BaseColor.png
+map_Ns Low-Poly_Locker_white_Roughness.png
+map_refl Low-Poly_Locker_white_Metallic.png
+map_Bump Low-Poly_Locker_white_Normal.png
